@@ -7,6 +7,6 @@ class Pizza:
         self.price = price
         self.size = size
 
-    def pizza_type(self):
+    def pizza_info(self):
         return f"{self.size.capitalize()} {self.pizza_type}, {self.ingridients} w cenie: {self.price} PLN"
     
