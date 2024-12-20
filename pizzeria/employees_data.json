@@ -1,0 +1,122 @@
+[
+    {
+        "employee_id": 1,
+        "name": "Jan Zieliński",
+        "role": "Dostawca",
+        "availability": false
+    },
+    {
+        "employee_id": 2,
+        "name": "Jan Kamińska",
+        "role": "Kucharz",
+        "availability": true
+    },
+    {
+        "employee_id": 3,
+        "name": "Piotr Mazur",
+        "role": "Kucharz",
+        "availability": false
+    },
+    {
+        "employee_id": 4,
+        "name": "Jan Mazur",
+        "role": "Dostawca",
+        "availability": false
+    },
+    {
+        "employee_id": 5,
+        "name": "Kasia Szymański",
+        "role": "Kelner",
+        "availability": false
+    },
+    {
+        "employee_id": 6,
+        "name": "Zofia Pawlak",
+        "role": "Kucharz",
+        "availability": false
+    },
+    {
+        "employee_id": 7,
+        "name": "Kasia Szymański",
+        "role": "Kucharz",
+        "availability": true
+    },
+    {
+        "employee_id": 8,
+        "name": "Julia Adamczyk",
+        "role": "Kucharz",
+        "availability": false
+    },
+    {
+        "employee_id": 9,
+        "name": "Zofia Kowalski",
+        "role": "Dostawca",
+        "availability": false
+    },
+    {
+        "employee_id": 10,
+        "name": "Jakub Wiśniewska",
+        "role": "Kucharz",
+        "availability": false
+    },
+    {
+        "employee_id": 11,
+        "name": "Piotr Kowalski",
+        "role": "Kelner",
+        "availability": false
+    },
+    {
+        "employee_id": 12,
+        "name": "Jan Nowak",
+        "role": "Kelner",
+        "availability": false
+    },
+    {
+        "employee_id": 13,
+        "name": "Piotr Kowalski",
+        "role": "Kelner",
+        "availability": true
+    },
+    {
+        "employee_id": 14,
+        "name": "Maria Nowak",
+        "role": "Kucharz",
+        "availability": false
+    },
+    {
+        "employee_id": 15,
+        "name": "Julia Wiśniewska",
+        "role": "Kelner",
+        "availability": true
+    },
+    {
+        "employee_id": 16,
+        "name": "Jan Kowalski",
+        "role": "Kelner",
+        "availability": false
+    },
+    {
+        "employee_id": 17,
+        "name": "Maria Kamińska",
+        "role": "Dostawca",
+        "availability": true
+    },
+    {
+        "employee_id": 18,
+        "name": "Julia Dąbrowski",
+        "role": "Kelner",
+        "availability": false
+    },
+    {
+        "employee_id": 19,
+        "name": "Jan Kamińska",
+        "role": "Dostawca",
+        "availability": true
+    },
+    {
+        "employee_id": 20,
+        "name": "Kasia Kamińska",
+        "role": "Kelner",
+        "availability": true
+    }
+]
